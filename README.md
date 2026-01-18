@@ -23,5 +23,5 @@ MIT License - feel free to use and modify!
 
 ## Author
 
-Created by [Your Name]
+Created by Merlin Bleile with Claude (Sonnet 4.5)
 Inspired by 3Blue1Brown's visualization style
